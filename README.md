@@ -6,6 +6,8 @@ In order to run this in your environment, please do the following in your termin
 
 2. git clone https://github.com/r3alz/mousePawChallenge.git
 
-3. cd main.py
+3. cd mousePawChallenge
 
-4. python main.py
+4. cd main.py
+
+5. python main.py
