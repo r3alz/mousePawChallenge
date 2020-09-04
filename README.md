@@ -4,7 +4,7 @@ In order to run this in your environment, please do the following in your termin
 
 1. go to desired folder that you would like to clone this despisority to
 
-2. cd git https://github.com/r3alz/mousePawChallenge.git
+2. git clone https://github.com/r3alz/mousePawChallenge.git
 
 3. cd main.py
 
