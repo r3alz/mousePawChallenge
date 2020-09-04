@@ -14,7 +14,7 @@ print("please type a sentence below:")
 user_passage = input()
 # while user input is only whitespace, do this
 while user_passage.isspace():
-    print("You can't input white space.  please type a sentence:")
+    print("You can't input just white space.  please type a sentence:")
     user_passage = input()
 
 
